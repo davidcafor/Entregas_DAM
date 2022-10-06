@@ -4,7 +4,7 @@
 
 Desarrollar una aplicación para tomar y mostrar datos generales de personas. El formulario deberá tener el siguiente aspecto:
 
-![https://raw.githubusercontent.com/davidcafor/davidcafor/Entregas_DAM/blob/main/DI/UD1.PRACTICA1/snapshot.png](https://github.com/davidcafor/Entregas_DAM/blob/main/DI/UD1.PRACTICA1/snapshot.png)
+!(https://github.com/davidcafor/Entregas_DAM/blob/main/DI/UD1.PRACTICA1/snapshot.png)
 
 Al pulsar sobre el botón Guardar se almacenará toda la información introducida.
 
